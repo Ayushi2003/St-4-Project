@@ -1,0 +1,6 @@
+div.side-head {
+  background: linear-gradient(to right, rgba(161, 140, 209, 0.5), rgba(251, 194, 235, 0.5)) ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

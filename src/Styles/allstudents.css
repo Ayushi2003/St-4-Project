@@ -1,0 +1,5 @@
+.data:hover {
+  background-image: var(#60bd68);
+  border: 2px dashed white;
+  opacity: 1;
+}

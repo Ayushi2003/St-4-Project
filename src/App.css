@@ -1,0 +1,34 @@
+main.content {
+  margin-left: 200px;
+  width: inherit;
+  padding: 0 0px;
+}
+.order-card {
+  color: black;
+}
+
+.bg-c-blue {
+ 
+  background-color: #5da5da;
+}
+
+.bg-c-green {
+  background-color: #60bd68;
+}
+
+.bg-c-purple {
+  background-color: #b276b2;
+}
+
+.bg-c-pink {
+  background-color: #f17cb0;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.card .card-block {
+  padding: 25px;
+}
+
